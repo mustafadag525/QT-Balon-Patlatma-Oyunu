@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resimler">
+        <file>resimler/0.jpg</file>
+        <file>resimler/1.jpg</file>
+        <file>resimler/2.jpg</file>
+        <file>resimler/3.jpg</file>
+        <file>resimler/4.jpg</file>
+        <file>resimler/5.jpg</file>
+        <file>resimler/6.jpg</file>
+        <file>resimler/arkaplan.jpg</file>
+        <file>resimler/patlama.jpg</file>
+    </qresource>
+</RCC>
